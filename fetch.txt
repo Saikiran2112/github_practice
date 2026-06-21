@@ -1,1 +1,1 @@
-I am trying to understand the fetch command in the git 
+Creating conflicts and learning them
